@@ -7,7 +7,7 @@ class MyGroovy extends NewJavaClass {
 	private PrintStream output;
 
 
-
+  @override
   public String ptintmethod(){
     
   }
