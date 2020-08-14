@@ -14,4 +14,8 @@ public class JavaDeveloper implements Developer {
 		out.println("I am developing with Java.");
 	}
 
+	public void DemoMethod(){
+		out.println("Shared library is working");
+	}
+
 }

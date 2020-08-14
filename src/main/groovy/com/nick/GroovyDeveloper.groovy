@@ -17,4 +17,10 @@ class GroovyDeveloper extends JavaDeveloper{
 		output.println "I'm adding some groovy goodness."
 	}
 
+	@Override
+	public void DemoMethod(){ {
+		super.DemoMethod()
+		output.println "My code is working."
+	}
+
 }
